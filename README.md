@@ -12,7 +12,7 @@
 - 📒 Gosto de aprender coisas novas sempre que possível
 
 ## 🧠 Conhecimentos
-![ícone html](img\html5-original-wordmark.svg) ![ícone css](img\css3-original-wordmark.svg) ![ícone Java](img\java-original-wordmark.svg) ![ícone PostgreSQL](img\postgresql-plain-wordmark.svg) ![ícone git](img\git-plain-wordmark.svg) ![ícone GitHub](img\github-original-wordmark.svg) ![ícone pyhton](img\python-original-wordmark.svg) ![ícone figma](img\figma-original.svg)
+![ícone html](/img/html5-original-wordmark.svg) ![ícone css](/img/css3-original-wordmark.svg) ![ícone Java](img\java-original-wordmark.svg) ![ícone PostgreSQL](img\postgresql-plain-wordmark.svg) ![ícone git](img\git-plain-wordmark.svg) ![ícone GitHub](img\github-original-wordmark.svg) ![ícone pyhton](img\python-original-wordmark.svg) ![ícone figma](img\figma-original.svg)
 
 ## 📖 Aprendendo
 ![ícone JavaScript](img\javascript-original.svg) ![ícone C](img\c-original.svg)
