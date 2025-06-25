@@ -16,7 +16,7 @@
 
 
 ## 📖 Aprendendo
-<img src="/img/javascript-original.svg" alt="ícone javascript" height="80px"> - <img src="/img/c-original.svg" alt="ícone C" height="80px">
+<img src="/img/javascript-original.svg" alt="ícone javascript" height="80px"> <img src="/img/c-original.svg" alt="ícone C" height="80px">
 
 ---
 
