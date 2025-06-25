@@ -12,17 +12,11 @@
 - 📒 Gosto de aprender coisas novas sempre que possível
 
 ## 🧠 Conhecimentos
-- Atualmente estudando programação e tecnologias web
-- HTML e CSS
-- Aprendendo JavaScript
-- Conhecimento em Python (nível intermediário)
-- Estudando Java (quase intermediário)
-- Aprendendo programação orientada a objetos
-- IntelliJ e VsCode
-- Git e Github
-- PostgreSQL para bancos de dados
-- Excel para análise de dados
-- Figma para prototipação e design
+![ícone html](img\html5-original-wordmark.svg) ![ícone css](img\css3-original-wordmark.svg) ![ícone Java](img\java-original-wordmark.svg) ![ícone PostgreSQL](img\postgresql-plain-wordmark.svg) ![ícone git](img\git-plain-wordmark.svg) ![ícone GitHub](img\github-original-wordmark.svg) ![ícone pyhton](img\python-original-wordmark.svg) ![ícone figma](img\figma-original.svg)
+
+## 📖 Aprendendo
+![ícone JavaScript](img\javascript-original.svg) ![ícone C](img\c-original.svg)
+
 ---
 
 
