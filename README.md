@@ -2,14 +2,9 @@
 
 ## 🚀 Sobre mim
 
-  Atualmente, estudo na escola Germinare Tech do Instituto J&F e sou um estudante apaixonado por tecnologia, com o sonho de me tornar desenvolvedor/engenheiro de software e atuar como full stack. Desde pequeno, sempre fui fascinado pelo mundo digital e hoje busco transformar essa paixão em soluções que facilitem a vida das pessoas, tornando o acesso ao digital mais leve e acessível.
+  Atualmente, estudo na escola Germinare Tech do Instituto J&F e sou um estudante apaixonado por tecnologia, com o sonho de me tornar desenvolvedor/engenheiro de software e atuar como full stack. Desde pequeno, sempre fui fascinado pelo mundo digital e hoje busco transformar essa paixão em soluções que facilitem a vida das pessoas, tornando o acesso ao digital mais leve e acessível. <br>
+  Nas horas vagas, adoro jogar vôlei, escuto músicas para relaxar e inspirar e gosto de jogos online e aprender coisas novas sempre que possível!
   
-## ⚡ Curiosidades
-
-- 🏐 Nas horas vagas, adoro jogar vôlei
-- 🎮 Gosto de jogos online
-- 🎵 Escuto música para relaxar e inspirar
-- 📒 Gosto de aprender coisas novas sempre que possível
 
 ## 🧠 Conhecimentos
 <img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px"> <img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px"> <img src="/img/java-original-wordmark.svg" alt="ícone Java" height="80px"> <img src="/img/python-original-wordmark.svg" alt="ícone python" height="80px"> <img src="/img/postgresql-plain-wordmark.svg" alt="ícone postgre" height="80px"> <img src="/img/figma-original.svg" alt="ícone figma" height="80px"> <img src="/img/git-plain-wordmark.svg" alt="ícone git" height="80px"> <img src="/img/github-original-wordmark.svg" alt="ícone github" height="80px">
