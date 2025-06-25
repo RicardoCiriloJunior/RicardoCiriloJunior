@@ -12,8 +12,8 @@
 - 📒 Gosto de aprender coisas novas sempre que possível
 
 ## 🧠 Conhecimentos
-<img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px"> <img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px">
-![ícone html](/img/html5-original-wordmark.svg) ![ícone css](/img/css3-original-wordmark.svg) ![ícone Java](/img/java-original-wordmark.svg) ![ícone PostgreSQL](/img/postgresql-plain-wordmark.svg) ![ícone git](/img/git-plain-wordmark.svg) ![ícone GitHub](/img/github-original-wordmark.svg) ![ícone pyhton](/img/python-original-wordmark.svg) ![ícone figma](/img/figma-original.svg)
+<img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px"> <img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px"> <img src="/img/java-original-wordmark.svg" alt="ícone Java" height="80px"> <img src="/img/python-original-wordmark.svg" alt="ícone python" height="80px"> <img src="/img/postgresql-plain-wordmark.svg" alt="ícone postgre" height="80px"> <img src="/img/figma-original.svg" alt="ícone figma" height="80px"> <img src="/img/git-plain-wordmark.svg" alt="ícone git" height="80px"> <img src="/img/github-original-wordmark.svg" alt="ícone github" height="80px">
+
 
 ## 📖 Aprendendo
 ![ícone JavaScript](/img/javascript-original.svg) ![ícone C](/img/c-original.svg)
