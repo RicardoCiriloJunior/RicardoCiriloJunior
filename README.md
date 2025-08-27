@@ -7,17 +7,20 @@
   
 
 ## 🧠 Conhecimentos
-<img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px">
-<img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px">
-<img src="/img/java-original-wordmark.svg" alt="ícone Java" height="80px">
-<img src="/img/python-original-wordmark.svg" alt="ícone python" height="80px">
-<img src="/img/postgresql-plain-wordmark.svg" alt="ícone postgre" height="80px">
-<img src="/img/figma-original.svg" alt="ícone figma" height="80px">
-<img src="/img/github-original-wordmark.svg" alt="ícone github" height="80px">
-<img src="/img/git-plain-wordmark.svg" alt="ícone git" height="80px">
-<img src="/img/linux-original.svg" alt="ícone linux" height="80px>
+<div style="display: flex;">
+  <img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px">
+  <img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px">
+  <img src="/img/java-original-wordmark.svg" alt="ícone Java" height="80px">
+  <img src="/img/python-original-wordmark.svg" alt="ícone python" height="80px">
+  <img src="/img/postgresql-plain-wordmark.svg" alt="ícone postgre" height="80px">
+  <img src="/img/figma-original.svg" alt="ícone figma" height="80px">
+  <img src="/img/github-original-wordmark.svg" alt="ícone github" height="80px">
+  <img src="/img/git-plain-wordmark.svg" alt="ícone git" height="80px">
+  <img src="/img/linux-original.svg" alt="ícone linux" height="80px>
 
-<img src="/img/vscode-original.svg" alt="ícone linux" height="80px>
+  <img src="/img/vscode-original.svg" alt="ícone linux" height="80px>
+  
+</div>
 
 
 
