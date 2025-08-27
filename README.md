@@ -7,20 +7,18 @@
   
 
 ## 🧠 Conhecimentos
-<div style="display: flex;">
-  <img src="/img/html5-original-wordmark.svg" alt="ícone html" height="80px">
-  <img src="/img/css3-original-wordmark.svg" alt="ícone css" height="80px">
-  <img src="/img/java-original-wordmark.svg" alt="ícone Java" height="80px">
-  <img src="/img/python-original-wordmark.svg" alt="ícone python" height="80px">
-  <img src="/img/postgresql-plain-wordmark.svg" alt="ícone postgre" height="80px">
-  <img src="/img/figma-original.svg" alt="ícone figma" height="80px">
-  <img src="/img/github-original-wordmark.svg" alt="ícone github" height="80px">
-  <img src="/img/git-plain-wordmark.svg" alt="ícone git" height="80px">
-  <img src="/img/linux-original.svg" alt="ícone linux" height="80px>
-
-  <img src="/img/vscode-original.svg" alt="ícone linux" height="80px>
-  
-</div>
+<p align="left">
+  <img src="/img/html5-original-wordmark.svg" alt="HTML" height="80px">
+  <img src="/img/css3-original-wordmark.svg" alt="CSS" height="80px">
+  <img src="/img/java-original-wordmark.svg" alt="Java" height="80px">
+  <img src="/img/python-original-wordmark.svg" alt="Python" height="80px">
+  <img src="/img/postgresql-plain-wordmark.svg" alt="PostgreSQL" height="80px">
+  <img src="/img/figma-original.svg" alt="Figma" height="80px">
+  <img src="/img/github-original-wordmark.svg" alt="GitHub" height="80px">
+  <img src="/img/git-plain-wordmark.svg" alt="Git" height="80px">
+  <img src="/img/linux-original.svg" alt="Linux" height="80px">
+  <img src="/img/vscode-original.svg" alt="VSCode" height="80px">
+</p>
 
 
 
