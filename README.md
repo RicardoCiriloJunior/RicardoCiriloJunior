@@ -18,13 +18,16 @@
   <img src="/img/git-plain-wordmark.svg" alt="Git" height="80px">
   <img src="/img/linux-original.svg" alt="Linux" height="80px">
   <img src="/img/vscode-original.svg" alt="VSCode" height="80px">
+  <img src="/img/javascript-original.svg" alt="ícone javascript" height="80px"> 
+  <img src="/img/intellij-original.svg" alt="ícone intellij" height="80px"> 
+  <img src="/img/phpstorm-original.svg" alt="ícone phpstorm" height="80px"> 
+
 </p>
 
 
 
 ## 📖 Aprendendo
-<img src="/img/javascript-original.svg" alt="ícone javascript" height="80px"> 
-
+<img src="/img/php-original.svg" alt="ícone PHP" height="80px">
 ---
 
 
