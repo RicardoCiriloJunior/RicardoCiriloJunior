@@ -31,8 +31,10 @@
 
 ## 📖 Aprendendo
 ---
-  <img src="/img/mongodb-original-wordmark.svg" alt="ícone MongoDB" height="80px">
-  <img src="/img/androidstudio-original-wordmark.svg" alt="ícone AndroidStudio" height="80px">
+  <p align="left">
+    <img src="/img/mongodb-original-wordmark.svg" alt="ícone MongoDB" height="80px">
+    <img src="/img/androidstudio-original-wordmark.svg" alt="ícone AndroidStudio" height="80px">
+  </p>
 
 
 <!--
